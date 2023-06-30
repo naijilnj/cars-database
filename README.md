@@ -11,7 +11,7 @@ After creating the database, the project proceeds to create tables using SQL com
 
 ![Screenshot (1181)](https://github.com/naijilnj/cars-database/assets/110610851/2c254c92-d73a-4f34-a051-d9f687fa0b12)
 
-Data Model Design
+Data Model Design:
 It defines the relationships and constraints between tables, ensuring a logical and organized structure. 
 
 ![Untitled Diagram drawio](https://github.com/naijilnj/cars-database/assets/110610851/4483d672-e7e8-4495-bf13-b0856cd4829c)
