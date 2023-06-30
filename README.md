@@ -1,5 +1,6 @@
 # cars-database
 The Cars Database is a project that leverages Python programming language to interact with PostgreSQL.
+
 OG Dataset - https://data.world/dataman-udit/cars-data
 
 The project starts by establishing a connection to the PostgreSQL database using Python's psycopg2 library.
