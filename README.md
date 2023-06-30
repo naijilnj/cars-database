@@ -17,6 +17,7 @@ It defines the relationships and constraints between tables, ensuring a logical 
 ![Untitled Diagram drawio](https://github.com/naijilnj/cars-database/assets/110610851/4483d672-e7e8-4495-bf13-b0856cd4829c)
 
 Then all the Data from the Dataset is inserted into the Tables
+
 Screenshots of the SQL shell - postgresql
 
 
