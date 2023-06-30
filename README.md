@@ -19,13 +19,16 @@ It defines the relationships and constraints between tables, ensuring a logical 
 Then all the Data from the Dataset is inserted into the Tables
 Screenshots of the SQL shell - postgresql
 
+
 Table 1 - carsdetails
 
 ![Screenshot (1191)](https://github.com/naijilnj/cars-database/assets/110610851/79f6b7a9-869c-4fe7-89b7-ebda59794919)
 
+
 Table 2 - carscountry
 
 ![Screenshot (121)](https://github.com/naijilnj/cars-database/assets/110610851/1dd4401f-8668-4e73-a916-203e4b6b8896)
+
 
 Table 3 - carsprice
 
